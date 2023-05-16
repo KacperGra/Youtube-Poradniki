@@ -1,5 +1,5 @@
 # Youtube Poradniki - Dev Kacper
-Kod znajdziesz wchodząc do folderu Unity Poradniki/Assets i tutaj nazwa danego odcinka, lub przez linki poniżej :)
+Kod znajdziesz wchodząc w spis treści :)
 
 ## Spis treści
 - [Poruszanie Gracza](https://github.com/KacperGra/Youtube-Poradniki/tree/main/Unity%20Poradniki/Assets/Poruszanie%20Gracza)
